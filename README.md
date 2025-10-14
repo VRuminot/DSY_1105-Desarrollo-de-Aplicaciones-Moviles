@@ -30,8 +30,8 @@ Kotlin
 
 MVVM Architecture
 
-Firebase (Firestore, Authentication, Storage)
+Firebase (Firestore DataBase, Authentication, Storage)
 
 LiveData y ViewModel
 
-Jetpack Components
+Jetpack Compose
